@@ -20,7 +20,7 @@ Download the file "/adthena/out/adthena.jar" and execute it in your command prom
 java -jar "/<local-folder>/adthena.jar" Retail
 (Be wary of the slash, while MacOS and Unix uses backward slash, Windows uses a forward slash for folder paths)
 
-Hard way of executing the project: (Do not worry there is an
+Hard way of executing the project: 
 If you do not have git, please install git from the site below:
 https://git-scm.com/downloads
 Go to the command prompt and type the below:
@@ -37,6 +37,3 @@ You could also clone this project using your IDEs such as Intellij IDEA or Eclip
 You should go to the VCS menu(On Intellij IDEA) and create a new git oull request, specify the repository name, branch name.
 
 Should you have any queries, please feel free to add comments on this repository. Also report any issues in the issues tab should you come across one.
-
-
-
