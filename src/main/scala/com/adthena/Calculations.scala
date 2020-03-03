@@ -4,7 +4,6 @@ import scala.annotation.tailrec
 import scala.collection.mutable
 import scala.io.StdIn.{readInt, readLine}
 import util.control.Breaks.{break, breakable}
-import Retail.LOGGER
 object Calculations {
 
 //Method for getting the item id from the user and validating it

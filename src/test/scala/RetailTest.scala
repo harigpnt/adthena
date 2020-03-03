@@ -1,12 +1,10 @@
 import java.io.{ByteArrayOutputStream, EOFException, StringReader}
 
-import com.adthena.Retail
 import com.adthena.Calculations
 import org.scalatest.FunSuite
 import org.scalatest.Matchers
 
 import scala.collection.mutable
-import scala.io.StdIn
 
 class RetailTest extends FunSuite with Matchers {
 
