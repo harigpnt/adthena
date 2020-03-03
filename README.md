@@ -1,4 +1,4 @@
-# adthena - Retail scenario - test project
+# Adthena - Retail scenario - A test project
 This projects demonstrates a simple scala for a retail requirement as detailed below:
 A shop has 4 items as listed below:
   1. Soup - 65p per tin
