@@ -16,7 +16,7 @@ Technical instructions:
 This code is built using scala and SBT. Please see build.sbt file for versions
 
 Easiest way of executing the project:
-Download the file "/adthena/out/adthena.jar" and execute it in your command prompt with the command below:
+Download the file "/out/artifacts/adthena_jar/adthena.jar" and execute it in your command prompt with the command below:
 java -jar "/<local-folder>/adthena.jar" Retail
 (Be wary of the slash, while MacOS and Unix uses backward slash, Windows uses a forward slash for folder paths)
 
